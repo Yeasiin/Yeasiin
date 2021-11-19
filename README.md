@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 😄 Pronouns: He/Him
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :)
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 <!--
