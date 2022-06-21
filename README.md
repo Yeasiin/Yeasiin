@@ -1,4 +1,4 @@
-# <center> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Yeasin Arfat](https://twitter.com/iamyeasiin) 👨‍💻 </center>
+# <center> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm [Yeasin Arfat](https://twitter.com/iamyeasiin) 👨‍💻 </center>
 
   <img align="right" style="padding:0 20px" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
