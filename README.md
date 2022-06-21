@@ -32,22 +32,19 @@ Here are some ideas to get you started:
 ### Let's Connect :coffee:
 
 <p>
-    <a href="https://github.com/yeasiin">
-    <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/>
     </a>
     <a href="https://www.linkedin.com/in/yeasiin/">
-    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.facebook.com/iamyeasiin/">
-    <img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/>
-    </a>
-    <a href="https://www.instagram.com/iamyeasiin/">
-    <img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/>
+    <img width="50" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
     </a>
     <a href="https://twitter.com/iamyeasiin">
-    <img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/>
+    <img width="50" src="https://img.icons8.com/bubbles/344/twitter-circled.png" alt="Twitter"/>
     </a>
-
+    <a href="https://www.instagram.com/iamyeasiin/">
+    <img width="50" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/>
+    </a>
+    <a href="https://www.facebook.com/iamyeasiin/">
+    <img width="50" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/>
+    </a>
 </p>
 
 ---
