@@ -13,25 +13,4 @@
   <br>
   <br>
 
-![Yeasin's github stats](https://github-readme-stats.vercel.app/api?username=yeasiin&show_icons=true)
-
----
-
-### Let's Connect :coffee:
-
-<p>
-    <a target="_blank" href="https://www.linkedin.com/in/yeasiin/">
-    <img width="50" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
-    </a>
-    <a target="_blank" href="https://twitter.com/iamyeasiin">
-    <img width="50" src="https://img.icons8.com/bubbles/344/twitter-circled.png" alt="Twitter"/>
-    </a>
-    <a target="_blank" href="https://www.instagram.com/iamyeasiin/">
-    <img width="50" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/>
-    </a>
-    <a target="_blank" href="https://www.facebook.com/iamyeasiin/">
-    <img width="50" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/>
-    </a>
-</p>
-
----
+ 
