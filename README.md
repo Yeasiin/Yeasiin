@@ -9,8 +9,4 @@
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :)
 - ⚡ Fun fact: My first line of code was not "Hello World!"
  
-  <br>
-  <br>
-  <br>
-
  
