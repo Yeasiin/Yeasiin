@@ -4,7 +4,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning DS, ALGO, NodeJS, Web Animation.
 - 👯 I’m looking to collaborate with React,Redux,Nextjs :wink:
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :)
  
